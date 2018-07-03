@@ -1,23 +1,23 @@
 # Site settings
-email: 
+email: luda_0306@naver.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
+title: LUDA!
+description:
 url: ""
-twitter_username: 
-default_img: 
+twitter_username: kthstupid
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: KANG TAE HO
+profile_img: https://images.unsplash.com/photo-1509005084666-3cbc75184cbb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02f7144037d6a6ffd039aeef38478a24&auto=format&fit=crop&w=712&q=80
+profile: My name is Kang Tae Ho and I am majoring in software convergence at Kyung Hee University. I am curious about various fields. Some of the most interesting areas are games and robots, Powered Exo-Skeleton.
 social:
-  github: 
+  github: luda0306
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
