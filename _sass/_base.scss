@@ -1,11 +1,11 @@
 /**
  * Base Variables
  */
-@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@font-face{font-family:'Nanum Gothic'; src:url('/fonts/NanumGothic.ttf')}
 
-$font-header: 'Nanum Gothic', monospace;
-$font-body: 'Nanum Gothic', monospace;
-$font-post: 'Nanum Gothic', serif;
+$font-header: 'NanumGothic', monospace;
+$font-body: 'NanumGothic', monospace;
+$font-post: 'NanumGothic', serif;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
