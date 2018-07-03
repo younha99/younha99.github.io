@@ -1,7 +1,10 @@
 /**
  * Base Variables
  */
-@font-face{font-family:'Nanum Gothic'; src:url('/fonts/NanumGothic.ttf')}
+@font-face{
+  font-family:'Nanum Gothic';
+  src: url(_fonts/NanumGothic.ttf) format('truetype');
+}
 
 $font-header: 'Nanum Gothic', monospace;
 $font-body: 'Nanum Gothic', monospace;
