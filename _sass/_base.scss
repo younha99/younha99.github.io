@@ -1,9 +1,11 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', monospace;
-$font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+$font-header: 'Nanum Gothic', monospace;
+$font-body: 'Nanum Gothic', monospace;
+$font-post: 'Nanum Gothic', serif;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
