@@ -20,6 +20,7 @@ social:
   github: luda0306
 
 # Build settings
+category_dir: ["Juice"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
