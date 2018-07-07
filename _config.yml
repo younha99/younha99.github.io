@@ -3,7 +3,7 @@ email: luda_0306@naver.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics:
+google_analytics: UA-121890621-1
 
 # SEO settings
 title: LUDA!
