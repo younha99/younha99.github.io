@@ -8,3 +8,6 @@ description:
 image:
 image-sm:
 ---
+<a href="midfi_ppt">Medium-fi Prototype PPT LINK </a>
+<a href="midfi_readme">Medium-fi Prototype README LINK </a>
+<a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a>
